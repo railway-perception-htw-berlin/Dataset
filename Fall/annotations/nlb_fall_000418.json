@@ -1,0 +1,88 @@
+{
+    "switches": {
+        "0": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1267,
+                    "y": 1078
+                },
+                {
+                    "x": 880,
+                    "y": 669
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1381,
+                    "y": 660
+                },
+                {
+                    "x": 1917,
+                    "y": 917
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 953,
+                    "y": 548
+                },
+                {
+                    "x": 878,
+                    "y": 506
+                }
+            ],
+            "track_ids": []
+        },
+        "3": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 1115,
+                    "y": 547
+                },
+                {
+                    "x": 1049,
+                    "y": 520
+                }
+            ],
+            "track_ids": []
+        },
+        "4": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1144,
+                    "y": 516
+                },
+                {
+                    "x": 1203,
+                    "y": 540
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}

@@ -1,0 +1,103 @@
+{
+    "switches": {
+        "0": {
+            "direction": "left",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 951,
+                    "y": 544
+                },
+                {
+                    "x": 899,
+                    "y": 521
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1397,
+                    "y": 582
+                },
+                {
+                    "x": 1918,
+                    "y": 722
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1200,
+                    "y": 557
+                },
+                {
+                    "x": 1050,
+                    "y": 517
+                }
+            ],
+            "track_ids": []
+        },
+        "3": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1201,
+                    "y": 560
+                },
+                {
+                    "x": 1049,
+                    "y": 513
+                }
+            ],
+            "track_ids": []
+        },
+        "4": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 930,
+                    "y": 503
+                },
+                {
+                    "x": 895,
+                    "y": 486
+                }
+            ],
+            "track_ids": []
+        },
+        "5": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 988,
+                    "y": 492
+                },
+                {
+                    "x": 1021,
+                    "y": 501
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}
