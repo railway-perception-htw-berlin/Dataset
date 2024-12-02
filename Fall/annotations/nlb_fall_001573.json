@@ -1,0 +1,58 @@
+{
+    "switches": {
+        "0": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 761,
+                    "y": 551
+                },
+                {
+                    "x": 494,
+                    "y": 654
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 762,
+                    "y": 553
+                },
+                {
+                    "x": 493,
+                    "y": 657
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "right",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 931,
+                    "y": 503
+                },
+                {
+                    "x": 901,
+                    "y": 525
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}
