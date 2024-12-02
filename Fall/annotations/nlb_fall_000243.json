@@ -1,0 +1,43 @@
+{
+    "switches": {
+        "0": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 936,
+                    "y": 649
+                },
+                {
+                    "x": 1233,
+                    "y": 1077
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "left",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 995,
+                    "y": 629
+                },
+                {
+                    "x": 896,
+                    "y": 538
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}

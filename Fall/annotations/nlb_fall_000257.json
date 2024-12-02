@@ -1,0 +1,73 @@
+{
+    "switches": {
+        "0": {
+            "direction": "right",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 891,
+                    "y": 746
+                },
+                {
+                    "x": 1130,
+                    "y": 970
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "left",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 943,
+                    "y": 534
+                },
+                {
+                    "x": 900,
+                    "y": 511
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 1086,
+                    "y": 528
+                },
+                {
+                    "x": 1005,
+                    "y": 509
+                }
+            ],
+            "track_ids": []
+        },
+        "3": {
+            "direction": "unknown",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 1000,
+                    "y": 491
+                },
+                {
+                    "x": 981,
+                    "y": 506
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}
