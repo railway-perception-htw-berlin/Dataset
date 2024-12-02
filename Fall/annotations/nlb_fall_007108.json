@@ -1,0 +1,88 @@
+{
+    "switches": {
+        "0": {
+            "direction": "left",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 962,
+                    "y": 570
+                },
+                {
+                    "x": 892,
+                    "y": 521
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "left",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 930,
+                    "y": 513
+                },
+                {
+                    "x": 895,
+                    "y": 495
+                }
+            ],
+            "track_ids": []
+        },
+        "2": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 922,
+                    "y": 499
+                },
+                {
+                    "x": 893,
+                    "y": 485
+                }
+            ],
+            "track_ids": []
+        },
+        "3": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1222,
+                    "y": 636
+                },
+                {
+                    "x": 1886,
+                    "y": 1039
+                }
+            ],
+            "track_ids": []
+        },
+        "4": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 1222,
+                    "y": 637
+                },
+                {
+                    "x": 1876,
+                    "y": 1042
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}

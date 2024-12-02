@@ -1,0 +1,43 @@
+{
+    "switches": {
+        "0": {
+            "direction": "left",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 1017,
+                    "y": 674
+                },
+                {
+                    "x": 895,
+                    "y": 561
+                }
+            ],
+            "track_ids": []
+        },
+        "1": {
+            "direction": "left",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 1493,
+                    "y": 715
+                },
+                {
+                    "x": 1073,
+                    "y": 562
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}
