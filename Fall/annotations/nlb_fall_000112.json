@@ -1,0 +1,28 @@
+{
+    "switches": {
+        "0": {
+            "direction": "right",
+            "kind": "merge",
+            "marks": [
+                {
+                    "x": 916,
+                    "y": 543
+                },
+                {
+                    "x": 957,
+                    "y": 511
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}

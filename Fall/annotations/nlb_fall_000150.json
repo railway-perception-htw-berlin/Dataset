@@ -1,0 +1,30 @@
+{
+    "switches": {
+        "0": {
+            "direction": "unknown",
+            "kind": "fork",
+            "marks": [
+                {
+                    "x": 658,
+                    "y": 484
+                },
+                {
+                    "x": 628,
+                    "y": 503
+                }
+            ],
+            "track_ids": []
+        }
+    },
+    "tag groups": {
+        "additional_attributes": [
+            "testset_switch"
+        ],
+        "environment": [],
+        "light": [],
+        "time_of_day": [],
+        "track_layout": [],
+        "weather": []
+    },
+    "tracks": {}
+}
